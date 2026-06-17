@@ -4,9 +4,9 @@ An interactive, terminal-based onboarding script built with Python. Inspired by 
 
 ## Key Features and UX Enhancements
 
-1- Data Sanitization: Automatically processes raw user inputs using string methods to ensure clean and standardized data entry.
-2- Terminal UI Alignment: Delivers an organized user experience by displaying a perfectly aligned digital Identity Pass using precise spacing techniques.
-3- Engaging User Flow: Features a multi-step sequence for user registration.
++ Data Sanitization: Automatically processes raw user inputs using string methods to ensure clean and standardized data entry.
++ Terminal UI Alignment: Delivers an organized user experience by displaying a perfectly aligned digital Identity Pass using precise spacing techniques.
++ Engaging User Flow: Features a multi-step sequence for user registration.
 
 ### Roadmap and Future Upgrades
 
